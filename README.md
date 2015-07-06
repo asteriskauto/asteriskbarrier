@@ -1,7 +1,15 @@
 # asteriskbarrier
+
+
 Control barrier with gsm-module using Asterisk
+
+
 Features:
+
+
 -The ability to "hide" the number of the SIM card installed in the barrier
+
+
 -Creation of a "white list" of numbers, which can open barrier
 -Possibility easy to add / remove / view numbers of "white list"
 -Reporting on the opening of the barrier and calls from numbers that are not in the list
