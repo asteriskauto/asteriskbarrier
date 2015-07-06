@@ -1,5 +1,5 @@
 # asteriskbarrier
-Control barrier with gsm-vjdule using Asterisk
+Control barrier with gsm-module using Asterisk
 Features:
 -The ability to "hide" the number of the SIM card installed in the barrier
 -Creation of a "white list" of numbers, which can open barrier
